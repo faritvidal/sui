@@ -1,192 +1,50 @@
 {
-            "bookmarks" : [
-              {
-                "category": "Peliculas",
-                "links": [
-                  {
-                    "name": "UnsoloClic",
-                    "url": "https://unsoloclic.info/"
-                  },
-                  {
-                    "name": "SomosMovies",
-                    "url": "https://somosmovies.com/"
-                  },
-                  {
-                    "name": "480pTVseries",
-                    "url": "https://my.480ptvseries.com/"
-                  },
-                  {
-                    "name": "480mkv",
-                    "url": "https://tv.480mkv.com/tv-shows-list/"
-                  }
-                ]
-              },
-              {
-                "category": "Torrent Movies",
-                "links": [
-                  {
-                    "name": "Yify",
-                    "url": "https://yify-torrent.cc/home"
-                  },
-                  {
-                    "name": "Eztv",
-                    "url": "https://eztv.io/"
-                  },
-                  {
-                    "name": "Drive",
-                    "url": "https://drive.google.com"
-                  }
-                ]
-              },
-              {
-                "category": "Mega-Descargas",
-                "links": [
-                  {
-                    "name": "MegaDescargas",
-                    "url": "https://mega-descargas-serie.blogspot.com/p/listado-de-series.html"
-                  },
-                  {
-                    "name": "Watchmen",
-                    "url": "http://binbox.io/psyM3#gVOUtuSH"
-                  },
-                  {
-                    "name": "The Madalorian",
-                    "url": "http://binbox.io/1hTY6#iHEz7L6W"
-                  },
-                  {
-                    "name": "WestWorld",
-                    "url": "http://binbox.io/KLikV#0fVpM7KR"
-                  },
-                  {
-                    "name": "Vikings",
-                    "url": "https://mega-descargas-serie.blogspot.com/2016/08/vikingos-serie-completa-latino.html"
-                  },
-                  {
-                    "name": "The Good Doctor",
-                    "url": "http://binbox.io/wRyhA#gxzof4xT"
-                  },
-                  {
-                    "name": "Better Call Saul",
-                    "url": "https://megadescarga-gratis.blogspot.com/2016/08/better-call-saul-serie-completa-latino.html"
-                  },
-                  {
-                    "name": "DC Titans",
-                    "url": "http://binbox.io/KLikV#0fVpM7KR/"
-                  } ,
-                  {
-                    "name": "the Flash",
-                    "url": "https://mega-descargas-serie.blogspot.com/2016/08/the-flash-serie-completa-latino.html"
-                  },
-                  {
-                    "name": "Supergirl",
-                    "url": "https://mega-descargas-serie.blogspot.com/2016/08/supergirl-serie-completa-latino.html"
-                  },
-                  {
-                    "name": "Arrow",
-                    "url": "https://mega-descargas-serie.blogspot.com/2016/08/arrow-serie-completa-latino.html"
-                  },
-                  {
-                    "name": "Batwoman",
-                    "url": "http://binbox.io/URWMR#V7vTLLq2"
-                  },
-                  {
-                    "name": "Lengends of tomorrow",
-                    "url": "https://megadescarga-gratis.blogspot.com/2017/12/leyendas-del-manana-serie-completa-latino.html"
-                  }
-                ]
-              },
-              {
-                "category": "Anime",
-                "links": [
-                  {
-                    "name": "Anime-ID",
-                    "url": "https://www.animeid.tv/"
-                  },
-                  {
-                    "name": "Evangelion-EC",
-                    "url": "https://www.evangelion-ec.net/"
-                  },
-                  {
-                    "name": "Animemx-KB",
-                    "url": "http://animekb.net/"
-                  },
-                  {
-                    "name": "Animemx (peliculas)",
-                    "url": "http://www.animemx.net/lista-de-peliculas/"
-                  },
-                  {
-                    "name": "Anime x Mega",
-                    "url": "https://www.animemf.org/lista-de-animes/"
-                  }
-                ]
-              },
-              {
-                "category": "Lifestyle",
-                "links": [
-                  {
-                    "name": "Design Milk",
-                    "url": "https://design-milk.com/category/interior-design/"
-                  },
-                  {
-                    "name": "Dwell",
-                    "url": "https://www.dwell.com/"
-                  },
-                  {
-                    "name": "Freshome",
-                    "url": "https://freshome.com/"
-                  }
-                ]
-              },
-              {
-                "category": "Media",
-                "links": [
-                  {
-                    "name": "Spotify",
-                    "url": "http://browse.spotify.com"
-                  },
-                  {
-                    "name": "Trakt",
-                    "url": "http://trakt.tv"
-                  },
-                  {
-                    "name": "YouTube",
-                    "url": "http://youtube.com/subscriptions"
-                  }
-                ]
-              },
-              {
-                "category": "Reading",
-                "links": [
-                  {
-                    "name": "Instapaper",
-                    "url": "https://www.instapaper.com/u"
-                  },
-                  {
-                    "name": "Medium",
-                    "url": "http://medium.com"
-                  },
-                  {
-                    "name": "Reddit",
-                    "url": "http://reddit.com"
-                  }
-                ]
-              },
-              {
-                "category": "Tech",
-                "links": [
-                  {
-                    "name": "TheNextWeb",
-                    "url": "https://thenextweb.com/"
-                  },
-                  {
-                    "name": "The Verge",
-                    "url": "https://theverge.com/"
-                  },
-                  {
-                    "name": "MIT Technology Review",
-                    "url": "https://www.technologyreview.com/"
-                  }
-                ]
-              }
-            ]
-        }
+  "bookmarks" : [
+    {
+      "category": "Mega-Descargas",
+      "links": [
+        {"name": "MegaDescargas","url": "https://mega-descargas-serie.blogspot.com/p/listado-de-series.html"},
+        {"name": "Watchmen","url": "http://binbox.io/psyM3#gVOUtuSH"},
+        {"name": "The Madalorian","url": "http://binbox.io/1hTY6#iHEz7L6W"},
+        {"name": "WestWorld","url": "http://binbox.io/KLikV#0fVpM7KR"},
+        {"name": "Vikings","url": "https://mega-descargas-serie.blogspot.com/2016/08/vikingos-serie-completa-latino.html"},
+        {"name": "The Good Doctor","url": "http://binbox.io/wRyhA#gxzof4xT"},
+        {"name": "Better Call Saul","url": "https://megadescarga-gratis.blogspot.com/2016/08/better-call-saul-serie-completa-latino.html"},
+        {"name": "DC Titans","url": "http://binbox.io/KLikV#0fVpM7KR/"} ,
+        {"name": "the Flash","url": "https://mega-descargas-serie.blogspot.com/2016/08/the-flash-serie-completa-latino.html"},
+        {"name": "Supergirl","url": "https://mega-descargas-serie.blogspot.com/2016/08/supergirl-serie-completa-latino.html"},
+        {"name": "Arrow","url": "https://mega-descargas-serie.blogspot.com/2016/08/arrow-serie-completa-latino.html"},
+        {"name": "Batwoman","url": "http://binbox.io/URWMR#V7vTLLq2"},
+        {"name": "Lengends of tomorrow","url": "https://megadescarga-gratis.blogspot.com/2017/12/leyendas-del-manana-serie-completa-latino.html"}
+      ]
+    },
+    {
+      "category": "Peliculas",
+      "links": [
+        {"name": "UnsoloClic","url": "https://unsoloclic.info/"},
+        {"name": "SomosMovies","url": "https://somosmovies.com/"},
+        {"name": "480pTVseries", "url": "https://my.480ptvseries.com/"},
+        {"name": "480mkv","url": "https://tv.480mkv.com/tv-shows-list/"}
+      ]
+    },
+    {
+      "category": "Torrent Movies",
+      "links": [
+        {"name": "Yify","url": "https://yify-torrent.cc/home"},
+        {"name": "Eztv","url": "https://eztv.io/"},
+        {"name": "Drive","url": "https://drive.google.com"}
+      ]
+    },
+   
+    {
+      "category": "Anime",
+      "links": [
+        {"name": "Anime-ID","url": "https://www.animeid.tv/"},
+        {"name": "Evangelion-EC","url": "https://www.evangelion-ec.net/"},
+        {"name": "Animemx-KB","url": "http://animekb.net/"},
+        {"name": "Animemx (peliculas)","url": "http://www.animemx.net/lista-de-peliculas/"},
+        {"name": "Anime x Mega","url": "https://www.animemf.org/lista-de-animes/"}
+      ]
+    }
+  ]
+}
