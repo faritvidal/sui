@@ -35,9 +35,18 @@
         {"name": "Drive","url": "https://drive.google.com"}
       ]
     },
-   
     {
       "category": "Anime",
+      "links": [
+        {"name": "Anime-ID","url": "https://www.animeid.tv/"},
+        {"name": "Evangelion-EC","url": "https://www.evangelion-ec.net/"},
+        {"name": "Animemx-KB","url": "http://animekb.net/"},
+        {"name": "Animemx (peliculas)","url": "http://www.animemx.net/lista-de-peliculas/"},
+        {"name": "Anime x Mega","url": "https://www.animemf.org/lista-de-animes/"}
+      ]
+    },
+    {
+      "category": "Anime2",
       "links": [
         {"name": "Anime-ID","url": "https://www.animeid.tv/"},
         {"name": "Evangelion-EC","url": "https://www.evangelion-ec.net/"},
