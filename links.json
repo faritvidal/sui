@@ -12,21 +12,25 @@
                     "url": "https://somosmovies.com/"
                   },
                   {
-                    "name": "MegaDescargas",
-                    "url": "https://mega-descargas-serie.blogspot.com/p/listado-de-series.html"
+                    "name": "480pTVseries",
+                    "url": "https://my.480ptvseries.com/"
+                  },
+                  {
+                    "name": "480mkv",
+                    "url": "https://tv.480mkv.com/tv-shows-list/"
                   }
                 ]
               },
               {
-                "category": "Cloud",
+                "category": "Torrent Movies",
                 "links": [
                   {
-                    "name": "Box",
-                    "url": "https://box.net"
+                    "name": "Yify",
+                    "url": "https://yify-torrent.cc/home"
                   },
                   {
-                    "name": "Dropbox",
-                    "url": "https://dropbox.com"
+                    "name": "Eztv",
+                    "url": "https://eztv.io/"
                   },
                   {
                     "name": "Drive",
@@ -35,36 +39,84 @@
                 ]
               },
               {
-                "category": "Design",
+                "category": "Mega-Descargas",
                 "links": [
                   {
-                    "name": "Awwwards",
-                    "url": "https://awwwards.com"
+                    "name": "MegaDescargas",
+                    "url": "https://mega-descargas-serie.blogspot.com/p/listado-de-series.html"
                   },
                   {
-                    "name": "Dribbble",
-                    "url": "https://dribbble.com"
+                    "name": "Watchmen",
+                    "url": "http://binbox.io/psyM3#gVOUtuSH"
                   },
                   {
-                    "name": "Muz.li",
-                    "url": "https://medium.muz.li/"
+                    "name": "The Madalorian",
+                    "url": "http://binbox.io/1hTY6#iHEz7L6W"
+                  },
+                  {
+                    "name": "WestWorld",
+                    "url": "http://binbox.io/KLikV#0fVpM7KR"
+                  },
+                  {
+                    "name": "Vikings",
+                    "url": "https://mega-descargas-serie.blogspot.com/2016/08/vikingos-serie-completa-latino.html"
+                  },
+                  {
+                    "name": "The Good Doctor",
+                    "url": "http://binbox.io/wRyhA#gxzof4xT"
+                  },
+                  {
+                    "name": "Better Call Saul",
+                    "url": "https://megadescarga-gratis.blogspot.com/2016/08/better-call-saul-serie-completa-latino.html"
+                  },
+                  {
+                    "name": "DC Titans",
+                    "url": "http://binbox.io/KLikV#0fVpM7KR/"
+                  } ,
+                  {
+                    "name": "the Flash",
+                    "url": "https://mega-descargas-serie.blogspot.com/2016/08/the-flash-serie-completa-latino.html"
+                  },
+                  {
+                    "name": "Supergirl",
+                    "url": "https://mega-descargas-serie.blogspot.com/2016/08/supergirl-serie-completa-latino.html"
+                  },
+                  {
+                    "name": "Arrow",
+                    "url": "https://mega-descargas-serie.blogspot.com/2016/08/arrow-serie-completa-latino.html"
+                  },
+                  {
+                    "name": "Batwoman",
+                    "url": "http://binbox.io/URWMR#V7vTLLq2"
+                  },
+                  {
+                    "name": "Lengends of tomorrow",
+                    "url": "https://megadescarga-gratis.blogspot.com/2017/12/leyendas-del-manana-serie-completa-latino.html"
                   }
                 ]
               },
               {
-                "category": "Dev",
+                "category": "Anime",
                 "links": [
                   {
-                    "name": "Codepen",
-                    "url": "https://codepen.io/"
+                    "name": "Anime-ID",
+                    "url": "https://www.animeid.tv/"
                   },
                   {
-                    "name": "Devdocs",
-                    "url": "https://devdocs.io"
+                    "name": "Evangelion-EC",
+                    "url": "https://www.evangelion-ec.net/"
                   },
                   {
-                    "name": "Devhints",
-                    "url": "https://devhints.io"
+                    "name": "Animemx-KB",
+                    "url": "http://animekb.net/"
+                  },
+                  {
+                    "name": "Animemx (peliculas)",
+                    "url": "http://www.animemx.net/lista-de-peliculas/"
+                  },
+                  {
+                    "name": "Anime x Mega",
+                    "url": "https://www.animemf.org/lista-de-animes/"
                   }
                 ]
               },
