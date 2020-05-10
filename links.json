@@ -1,19 +1,19 @@
 {
             "bookmarks" : [
               {
-                "category": "Communicate",
+                "category": "Peliculas",
                 "links": [
                   {
-                    "name": "Discord",
-                    "url": "https://discordapp.com/"
+                    "name": "UnsoloClic",
+                    "url": "https://unsoloclic.info/"
                   },
                   {
-                    "name": "Gmail",
-                    "url": "http://gmail.com"
+                    "name": "SomosMovies",
+                    "url": "https://somosmovies.com/"
                   },
                   {
-                    "name": "Slack",
-                    "url": "https://slack.com/signin"
+                    "name": "MegaDescargas",
+                    "url": "https://mega-descargas-serie.blogspot.com/p/listado-de-series.html"
                   }
                 ]
               },
