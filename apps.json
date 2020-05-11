@@ -1,10 +1,10 @@
 {
     "apps" : [
         {"name":"NAS","url":"jokernas.jokerlight.xyz","icon":"nas","description": "Home NAS","admin": ""},
-        {"name":"CloudCMD","url":"files.example.com","icon":"folder-multiple-outline","description": "","admin": ""},
-        {"name":"Cockpit","url":"cp.example.com","icon":"airplane","description": "","admin": ""},
-        {"name":"Feedbin","url":"rss.example.com","icon":"rss","description": "","admin": ""},
-        {"name":"Filestash","url":"cloud.example.com","icon":"package","description": "","admin": ""},
+        {"name":"VideoStations","url":"jokernas.jokerlight.xyz/video","icon":"filmstrip","description": "Home Video","admin": ""},
+        {"name":"PhotoStations","url":"jokernas.jokerlight.xyz/photo","icon":"camara","description": "Home Pictures","admin": ""},
+        {"name":"AudioStations","url":"jokernas.jokerlight.xyz/audio","icon":"folder-music","description": "Home Music","admin": ""},
+        {"name":"FileStations","url":"jokernas.jokerlight.xyz/file","icon":"file-cabinet","description": "Home File","admin": ""},
         {"name":"Jackett","url":"jackett.example.com","icon":"tshirt-crew-outline","description": "","admin": ""},
         {"name":"Lidarr","url":"music.example.com","icon":"music","description": "","admin": ""},
         {"name":"Minio","url":"minio.example.com","icon":"server","description": "","admin": ""},
