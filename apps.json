@@ -8,7 +8,7 @@
         {"name":"Mylar","url":"comics.example.com","icon":"book-open-variant","description": "","admin": ""},
         {"name":"Nextcloud","url":"cloud.example.com","icon":"weather-cloudy","description": "","admin": ""},
         {"name":"Ombi","url":"request.example.com","icon":"file-find-outline","description": "","admin": ""},
-        {"name":"PhotoStations","url":"jokernas.jokerlight.xyz/photo","icon":"camera","description": "Home Pictures","admin": ""},
+        {"name":"PhotoStations","url":"jokernas.jokerlight.xyz/photo/#!Albums","icon":"camera","description": "Home Pictures","admin": ""},
         {"name":"Pi-hole","url":"pihole.example.com","icon":"do-not-disturb","description": "","admin": ""},
         {"name":"Plex","url":"play.example.com","icon":"plex","description": "","admin": ""},
         {"name":"Portainer","url":"port1.example.com","icon":"docker","description": "","admin": ""},
