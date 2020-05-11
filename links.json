@@ -1,21 +1,97 @@
 {
   "bookmarks" : [
     {
-      "category": "Mega-Descargas",
+      "category": "Linux",
       "links": [
-        {"name": "MegaDescargas","url": "https://mega-descargas-serie.blogspot.com/p/listado-de-series.html"},
-        {"name": "Watchmen","url": "http://binbox.io/psyM3#gVOUtuSH"},
-        {"name": "The Madalorian","url": "http://binbox.io/1hTY6#iHEz7L6W"},
-        {"name": "WestWorld","url": "http://binbox.io/KLikV#0fVpM7KR"},
-        {"name": "Vikings","url": "https://mega-descargas-serie.blogspot.com/2016/08/vikingos-serie-completa-latino.html"},
-        {"name": "The Good Doctor","url": "http://binbox.io/wRyhA#gxzof4xT"},
-        {"name": "Better Call Saul","url": "https://megadescarga-gratis.blogspot.com/2016/08/better-call-saul-serie-completa-latino.html"},
-        {"name": "DC Titans","url": "http://binbox.io/KLikV#0fVpM7KR/"} ,
-        {"name": "the Flash","url": "https://mega-descargas-serie.blogspot.com/2016/08/the-flash-serie-completa-latino.html"},
-        {"name": "Supergirl","url": "https://mega-descargas-serie.blogspot.com/2016/08/supergirl-serie-completa-latino.html"},
-        {"name": "Arrow","url": "https://mega-descargas-serie.blogspot.com/2016/08/arrow-serie-completa-latino.html"},
-        {"name": "Batwoman","url": "http://binbox.io/URWMR#V7vTLLq2"},
-        {"name": "Lengends of tomorrow","url": "https://megadescarga-gratis.blogspot.com/2017/12/leyendas-del-manana-serie-completa-latino.html"}
+        {"name": "Pkgs","url": "https://pkgs.org/"},
+        {"name": "Ubuntizando","url": "https://www.ubuntizando.com/"},
+        {"name": "Webup8","url": "http://www.webupd8.org/"},
+        {"name": "Hosting Linux","url": "https://www.arvixe.com/"},
+        {"name": "Ventoy","url": "https://www.ventoy.net/en/index.html"}
+      ]
+    },
+    {
+      "category": "Tech Research",
+      "links": [
+        {"name": "Intercambiosvirtuales","url": "http://www.intercambiosvirtuales.org/"},
+        {"name": "Alex thom","url": "https://alex.thom.ae/"},
+        {"name": "Jswart","url": "https://blog.jswart.xyz/"},
+        {"name": "marcolancini","url": "https://www.marcolancini.it/publications/"},
+        {"name": "sysadmins","url": "https://sysadmins.co.za/"},
+        {"name": "Aufomm","url": "https://tech.aufomm.com/"},
+        {"name": "Smart Home","url": "https://www.smarthomebeginner.com/"},
+        {"name": "Nas Hosted","url": "https://nashosted.com/"},
+        {"name": "Naseros","url": "https://naseros.com/"},
+        {"name": "Xpenology","url": "https://xpenology.com/forum/"}
+      ]
+    },
+    {
+      "category": "Docker",
+      "links": [
+        {"name": "Play-With-Docker","url": "https://labs.play-with-docker.com/"},
+        {"name": "Docker Hub","url": "https://hub.docker.com/"},
+        {"name": "MoonGift","url": "https://www.moongift.jp/tags/%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2-docker"},
+        {"name": "Docker Compose","url": "https://github.com/docker/compose/releases"},
+        {"name": "JessFraz","url": "https://blog.jessfraz.com/post/docker-containers-on-the-desktop/"},
+        {"name": "AquaSec","url": "https://blog.aquasec.com/docker-security-best-practices#risks"}
+      ]
+    },
+    {
+      "category": "Github",
+      "links": [
+        {"name": "awesome_selfhosted","url": "https://github.com/awesome-selfhosted/awesome-selfhosted"},
+        {"name": "Interview Questions","url": "https://github.com/chassing/linux-sysadmin-interview-questions"},
+        {"name": "Tachiyomi","url": "https://github.com/inorichi/tachiyomi"},
+        {"name": "TachiyomiEH ","url": "https://github.com/NerdNumber9/TachiyomiEH"},
+        {"name": "tachiyomiJ2K","url": "https://github.com/Jays2Kings/tachiyomiJ2K"},
+        {"name": "bumblebee-status ","url": "https://github.com/tobi-wan-kenobi/bumblebee-status"},
+        {"name": "oh-my-zsh ","url": "https://github.com/ohmyzsh/ohmyzsh"},
+        {"name": "PowerLevel9k ","url": "https://github.com/Powerlevel9k/powerlevel9k"},
+        {"name": "Minukube ","url": "https://github.com/kubernetes/minikube"}
+      ]
+    },
+    {
+      "category": "Github Docker",
+      "links": [
+        {"name": "Teedy","url": "https://github.com/sismics/docs"},
+        {"name": "Cloudcmd","url": "https://github.com/coderaiser/cloudcmd"},
+        {"name": "Hexo","url": "https://github.com/ktkr3d/docker-hexo"},
+        {"name": "DockWatch","url": "https://github.com/mabruras/dockwatch"},
+        {"name": "Selfoss","url": "https://github.com/SSilence/selfoss"},
+        {"name": "Dozzle","url": "https://github.com/amir20/dozzle"},
+        {"name": "Netbox","url": "https://github.com/netbox-community/netbox-docker"},
+        {"name": "Apache Guacamole","url": "https://github.com/DmitryZagr/guacamole-docker-compose"},
+        {"name": "Dockerized Spotify","url": "https://github.com/terlar/docker-spotify-pulseaudio"},
+        {"name": "Portainer","url": "https://github.com/portainer/portainer"},
+        {"name": "Netbox","url": "https://github.com/containous/traefik"},
+        {"name": "NetData","url": "https://github.com/netdata/netdata"},
+        {"name": "Glances","url": "https://github.com/nicolargo/glances"},
+        {"name": "Mantis","url": "https://github.com/xlrl/docker-mantisbt"},
+        {"name": "OTRS","url": "https://github.com/juanluisbaptiste/docker-otrs"},
+        {"name": "ELK Sandbox","url": "https://github.com/influxdata/sandbox"},
+        {"name": "Grocy","url": "https://github.com/grocy/grocy-docker"},
+        {"name": "Sui Dashboard","url": "https://github.com/jeroenpardon/sui"}
+      ]
+    },
+    {
+      "category": "Anime",
+      "links": [
+        {"name": "Anime-ID","url": "https://www.animeid.tv/"},
+        {"name": "Evangelion-EC","url": "https://www.evangelion-ec.net/"},
+        {"name": "Animemx-KB","url": "http://animekb.net/"},
+        {"name": "Animemx (peliculas)","url": "http://www.animemx.net/lista-de-peliculas/"},
+        {"name": "Anime x Mega","url": "https://www.animemf.org/lista-de-animes/"}
+      ]
+    },
+    {
+      "category": "Action Figure",
+      "links": [
+        {"name": "Funko","url": "https://www.funko.com/collection"},
+        {"name": "Pop Price guide","url": "https://www.poppriceguide.com/guide/PopTracker/manage.php?opt=collection"},
+        {"name": "Solaris Japon","url": "https://solarisjapan.com/collections/bb"},
+        {"name": "Toywiz","url": "https://toywiz.com/funko/"},
+        {"name": "Hobby Search","url": "https://www.1999.co.jp/eng/mylist/109/4/0/1"},
+        {"name": "Waifu Watch","url": "https://www.waifuwatch.com/tag/nsfw/"}
       ]
     },
     {
@@ -36,31 +112,21 @@
       ]
     },
     {
-      "category": "Anime",
+      "category": "Mega-Descargas",
       "links": [
-        {"name": "Anime-ID","url": "https://www.animeid.tv/"},
-        {"name": "Evangelion-EC","url": "https://www.evangelion-ec.net/"},
-        {"name": "Animemx-KB","url": "http://animekb.net/"},
-        {"name": "Animemx (peliculas)","url": "http://www.animemx.net/lista-de-peliculas/"},
-        {"name": "Anime x Mega","url": "https://www.animemf.org/lista-de-animes/"}
-      ]
-    },
-    {
-      "category": "Docker",
-      "links": [
-        {"name": "Play-With-Docker","url": "https://labs.play-with-docker.com/"},
-        {"name": "Docker Hub","url": "https://hub.docker.com/"},
-        {"name": "MoonGift","url": "https://www.moongift.jp/tags/%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2-docker"}
-      ]
-    },
-    {
-      "category": "Tech Research",
-      "links": [
-        {"name": "Alex thom","url": "https://alex.thom.ae/"},
-        {"name": "Jswart","url": "https://blog.jswart.xyz/"},
-        {"name": "sysadmins","url": "https://sysadmins.co.za/"},
-        {"name": "Aufomm","url": "https://tech.aufomm.com/"},
-        {"name": "Smart Home","url": "https://www.smarthomebeginner.com/"}
+        {"name": "MegaDescargas","url": "https://mega-descargas-serie.blogspot.com/p/listado-de-series.html"},
+        {"name": "Watchmen","url": "http://binbox.io/psyM3#gVOUtuSH"},
+        {"name": "The Madalorian","url": "http://binbox.io/1hTY6#iHEz7L6W"},
+        {"name": "WestWorld","url": "http://binbox.io/KLikV#0fVpM7KR"},
+        {"name": "Vikings","url": "https://mega-descargas-serie.blogspot.com/2016/08/vikingos-serie-completa-latino.html"},
+        {"name": "The Good Doctor","url": "http://binbox.io/wRyhA#gxzof4xT"},
+        {"name": "Better Call Saul","url": "https://megadescarga-gratis.blogspot.com/2016/08/better-call-saul-serie-completa-latino.html"},
+        {"name": "DC Titans","url": "http://binbox.io/KLikV#0fVpM7KR/"} ,
+        {"name": "the Flash","url": "https://mega-descargas-serie.blogspot.com/2016/08/the-flash-serie-completa-latino.html"},
+        {"name": "Supergirl","url": "https://mega-descargas-serie.blogspot.com/2016/08/supergirl-serie-completa-latino.html"},
+        {"name": "Arrow","url": "https://mega-descargas-serie.blogspot.com/2016/08/arrow-serie-completa-latino.html"},
+        {"name": "Batwoman","url": "http://binbox.io/URWMR#V7vTLLq2"},
+        {"name": "Lengends of tomorrow","url": "https://megadescarga-gratis.blogspot.com/2017/12/leyendas-del-manana-serie-completa-latino.html"}
       ]
     }
   ]
