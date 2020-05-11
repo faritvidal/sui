@@ -1,24 +1,24 @@
 {
     "apps" : [
         {"name":"NAS","url":"jokernas.jokerlight.xyz","icon":"nas","description": "Home NAS","admin": ""},
-        {"name":"VideoStations","url":"jokernas.jokerlight.xyz/video","icon":"filmstrip","description": "Home Video","admin": ""},
-        {"name":"PhotoStations","url":"jokernas.jokerlight.xyz/photo","icon":"camara","description": "Home Pictures","admin": ""},
-        {"name":"AudioStations","url":"jokernas.jokerlight.xyz/audio","icon":"folder-music","description": "Home Music","admin": ""},
-        {"name":"FileStations","url":"jokernas.jokerlight.xyz/file","icon":"file-cabinet","description": "Home File","admin": ""},
         {"name":"Jackett","url":"jackett.example.com","icon":"tshirt-crew-outline","description": "","admin": ""},
         {"name":"Lidarr","url":"music.example.com","icon":"music","description": "","admin": ""},
         {"name":"Minio","url":"minio.example.com","icon":"server","description": "","admin": ""},
+        {"name":"VideoStations","url":"jokernas.jokerlight.xyz/video","icon":"filmstrip","description": "Home Video","admin": ""},
         {"name":"Mylar","url":"comics.example.com","icon":"book-open-variant","description": "","admin": ""},
         {"name":"Nextcloud","url":"cloud.example.com","icon":"weather-cloudy","description": "","admin": ""},
         {"name":"Ombi","url":"request.example.com","icon":"file-find-outline","description": "","admin": ""},
+        {"name":"PhotoStations","url":"jokernas.jokerlight.xyz/photo","icon":"camara","description": "Home Pictures","admin": ""},
         {"name":"Pi-hole","url":"pihole.example.com","icon":"do-not-disturb","description": "","admin": ""},
         {"name":"Plex","url":"play.example.com","icon":"plex","description": "","admin": ""},
         {"name":"Portainer","url":"port1.example.com","icon":"docker","description": "","admin": ""},
+        {"name":"AudioStations","url":"jokernas.jokerlight.xyz/audio","icon":"folder-music","description": "Home Music","admin": ""},
         {"name":"Radarr","url":"movies.example.com","icon":"filmstrip","description": "","admin": ""},
         {"name":"Sonarr","url":"tv.example.com","icon":"television-box","description": "","admin": ""},
         {"name":"Stackedit","url":"md.example.com","icon":"markdown","description": "","admin": ""},
+        {"name":"FileStations","url":"jokernas.jokerlight.xyz/file","icon":"file-cabinet","description": "Home File","admin": ""},
         {"name":"Transmission","url":"dl.example.com","icon":"progress-download","description": "","admin": ""},
         {"name":"Unifi","url":"unifi.jokerlight.xyz:8443/manage","icon":"wifi","description": "Unifi Controller","admin": ""},
-        {"name":"Home Router","url":"router.jokerlight.xyz","icon":"router-network","description": "Home Router","admin": ""}
+        {"name":"Router","url":"router.jokerlight.xyz","icon":"router-network","description": "Home Router","admin": ""}
     ]
 }
