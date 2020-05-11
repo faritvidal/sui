@@ -16,13 +16,14 @@
         {"name": "Intercambiosvirtuales","url": "http://www.intercambiosvirtuales.org/"},
         {"name": "Alex thom","url": "https://alex.thom.ae/"},
         {"name": "Jswart","url": "https://blog.jswart.xyz/"},
-        {"name": "marcolancini","url": "https://www.marcolancini.it/publications/"},
-        {"name": "sysadmins","url": "https://sysadmins.co.za/"},
+        {"name": "Marcolancini","url": "https://www.marcolancini.it/publications/"},
+        {"name": "Sysadmins","url": "https://sysadmins.co.za/"},
         {"name": "Aufomm","url": "https://tech.aufomm.com/"},
         {"name": "Smart Home","url": "https://www.smarthomebeginner.com/"},
         {"name": "Nas Hosted","url": "https://nashosted.com/"},
         {"name": "Naseros","url": "https://naseros.com/"},
-        {"name": "Xpenology","url": "https://xpenology.com/forum/"}
+        {"name": "Xpenology","url": "https://xpenology.com/forum/"},
+        {"name": "Mariushosting","url": "https://mariushosting.com/"}
       ]
     },
     {
@@ -39,13 +40,13 @@
     {
       "category": "Github",
       "links": [
-        {"name": "awesome_selfhosted","url": "https://github.com/awesome-selfhosted/awesome-selfhosted"},
+        {"name": "Awesome Selfhosted","url": "https://github.com/awesome-selfhosted/awesome-selfhosted"},
         {"name": "Interview Questions","url": "https://github.com/chassing/linux-sysadmin-interview-questions"},
         {"name": "Tachiyomi","url": "https://github.com/inorichi/tachiyomi"},
         {"name": "TachiyomiEH ","url": "https://github.com/NerdNumber9/TachiyomiEH"},
-        {"name": "tachiyomiJ2K","url": "https://github.com/Jays2Kings/tachiyomiJ2K"},
-        {"name": "bumblebee-status ","url": "https://github.com/tobi-wan-kenobi/bumblebee-status"},
-        {"name": "oh-my-zsh ","url": "https://github.com/ohmyzsh/ohmyzsh"},
+        {"name": "TachiyomiJ2K","url": "https://github.com/Jays2Kings/tachiyomiJ2K"},
+        {"name": "Bumblebee-status ","url": "https://github.com/tobi-wan-kenobi/bumblebee-status"},
+        {"name": "Oh-my-zsh ","url": "https://github.com/ohmyzsh/ohmyzsh"},
         {"name": "PowerLevel9k ","url": "https://github.com/Powerlevel9k/powerlevel9k"},
         {"name": "Minukube ","url": "https://github.com/kubernetes/minikube"}
       ]
